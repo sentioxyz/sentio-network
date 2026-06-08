@@ -5,6 +5,7 @@ Configs and a Docker Compose setup to run a Sentio network node (op-node + op-re
 Currently supported networks:
 
 - `testnet` — L2 chain id `7892101`, settles to Sepolia (L1 chain id `11155111`)
+- `testnet-v2` — L2 chain id `7892102`, settles to Sepolia (L1 chain id `11155111`), Custom Gas Token (Sentio Token / ST)
 
 ## Layout
 
